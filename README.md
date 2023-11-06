@@ -62,7 +62,7 @@ return 0;
 }
 ```
 ## OUTPUT:
-![image](https://github.com/praveensaveetha/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/119560117/ffa162e4-6676-4bf6-95f2-878785b40945)
+![Screenshot 2023-11-06 083907](https://github.com/Darshans05/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/115534676/228b2a29-779e-4ce3-baaf-f64ca9b288bb)
 
 
 ## RESULT:
